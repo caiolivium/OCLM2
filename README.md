@@ -1,18 +1,19 @@
-# Repositório para a disciplina de **Organização de Computadores e Linguagem de Montagem II**.
+# Organização de Computadores e Linguagem de Montagem II
 
-## Conteúdo
+Repositório dedicado aos estudos, códigos desenvolvidos em aula e resolução de laboratórios da disciplina, utilizando a BeagleBone Black (BBB).
 
-Este repositório contém:
-- Códigos desenvolvidos em aula
-- Exercícios resolvidos
-- Journals explicativos com a resolução de cada questão
+## Como utilizar este repositório
 
-## Estrutura
+O material está organizado por laboratórios. Em cada pasta (ex: `lab01`, `lab02`) você encontrará:
+1. O PDF de instruções do professor.
+2. O código-base fornecido (quando houver).
+3. As pastas com as resoluções de cada exercício.
+4. Um arquivo `README.md` (Journal) com explicações detalhadas sobre o código e a execução.
 
-- `/exercicios/` - Exercícios e soluções
-- `/aulas/` - Códigos feitos durante as aulas
-- `/journals/` - Documentações e explicações detalhadas
+## Índice de Laboratórios
 
-## Como usar
+- [**Lab 01 - Syscalls Linux BBB**](./lab01/)
+- [**Lab 02 - GPIO e WDT**](./lab02/)
 
-Consulte os journals para entender a resolução de cada exercício e acompanhe os códigos correspondentes nas pastas temáticas.
+## Materiais de Apoio
+- [Configuração da BBB](./docs/TPSEII.pdf)
